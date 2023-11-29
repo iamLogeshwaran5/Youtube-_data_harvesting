@@ -1,4 +1,4 @@
-# YouTube Data Scraping and Analysis
+# YouTube Data Harvesting
 
 This project is designed to scrape data from YouTube using the YouTube Data API, store it in both MongoDB and PostgreSQL databases, and perform data analysis using Python. The data analysis includes various queries and visualizations to gain insights into YouTube channels, playlists, videos, and comments.
 
